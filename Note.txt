@@ -1,0 +1,17 @@
+﻿Bài 57: Cài đặt customize-cra để tuỳ chỉnh cấu hình Webpack
+giúp ghi đè cấu hình Webpack không nhất thiết phải eject nó ra
+
+Bài 59: Cài đặt và cấu hình Prettier trên VS Code
+- Prettier giúp tự formal file code html, css, js, json gọn gàng ngay ngắn
+
+BÀi 60: Cấu hình sử dụng CSS, SASS
+1. Tạo GlobalStyle component
+2. Cài thư viện SASS: npm i -D sass
+3. Reset CSS: npm install --save normalize.css
+4. Default CSS: font-family, font-size, line-height
+
+Bài 61: Cấu hình Router và xây dựng cơ chế tải
+1. Phân tích tổng quan playout
+2. Cài đặt react-router-dom: npm i react-router-dom
+3. Đua cấu hình routes ra ngoài
+4. Xây dựng cơ chế tải playout
