@@ -15,3 +15,6 @@ Bài 61: Cấu hình Router và xây dựng cơ chế tải
 2. Cài đặt react-router-dom: npm i react-router-dom
 3. Đua cấu hình routes ra ngoài
 4. Xây dựng cơ chế tải playout
+
+Bài 62: Dựng khung DefaultLayout dự án Tiktok
+- Cài thư viện classnames: npm i classnames 
