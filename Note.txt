@@ -18,3 +18,34 @@ Bài 61: Cấu hình Router và xây dựng cơ chế tải
 
 Bài 62: Dựng khung DefaultLayout dự án Tiktok
 - Cài thư viện classnames: npm i classnames 
+
+
+
+Bài 65: Xây Dựng UI Phần Header Dự Án Tiktok #3
+Giao diện nút upload và login lúc chưa đăng nhập
+Gồm fiile
+src/components/Button/Button.module.scss
+src/components/Button/index.js
+src/components/GlobalStyles/GlobalStyles.scss
+src/components/Layout/components/Header/index.js
+
+Bài 66: : Al Nassr - Al Fayha FC
+- Làm UI menu nút 3 chấm ghê chuột hiện danh sách
+src/components/Button/Button.module.scss
+src/components/Layout/components/Header/Header.module.scss
+src/components/Layout/components/Header/index.js
+src/components/Popper/Menu/Menu.module.scss
+src/components/Popper/Menu/MenuItem.js
+src/components/Popper/Menu/index.js
+src/components/Popper/Wrapper.js
+
+
+
+
+
+
+
+
+
+
+
