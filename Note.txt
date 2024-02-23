@@ -39,6 +39,13 @@ src/components/Popper/Menu/MenuItem.js
 src/components/Popper/Menu/index.js
 src/components/Popper/Wrapper.js
 
+Bài 67: Xây Dựng UI Phần Header Dự Án Tiktok #5 
+- Click vào ngôn ngữ ra tiếng anh và tiếng việt, nút quay lại ngôn ngữ
+src/components/Layout/components/Header/index.js
+src/components/Popper/Menu/Header.js
+src/components/Popper/Menu/Menu.module.scss
+src/components/Popper/Menu/MenuItem.js
+src/components/Popper/Menu/index.js
 
 
 
