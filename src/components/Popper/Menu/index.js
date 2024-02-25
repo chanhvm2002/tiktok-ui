@@ -9,8 +9,8 @@ import { useState } from 'react';
 const cx = classNames.bind(styles);
 
 const defaultFn = () => {};
-
-function Menu({ children, items = [], onChange = defaultFn }) {
+                                    // Không ẩn menu khi click vào avt
+function Menu({ children, items = [], hideOnClick = false, onChange = defaultFn }) {
     const [history, setHistory] = useState([{ data: items }]);
     const current = history[history.length - 1];
     const renderItems = () => {
@@ -38,6 +38,7 @@ function Menu({ children, items = [], onChange = defaultFn }) {
             interactive
             delay={[0, 700]}
             offset={[12, 8]}
+            hideOnClick={hideOnClick} //Không ẩn menu khi click vào avt
             placement="bottom-end"
             render={(attrs) => (
                 <div className={cx('menu-list')} tabIndex="-1" {...attrs}>
