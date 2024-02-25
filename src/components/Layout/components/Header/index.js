@@ -36,13 +36,64 @@ const MENU_ITEMS = [
                 {
                     type: 'language',
                     code: 'en',
-                    title: 'English',
+                    title: 'Tiếng Anh',
                 },
                 {
                     type: 'language',
                     code: 'vi',
                     title: 'Tiếng Việt',
                 },
+                {
+                    type: 'language',
+                    code: 'tl',
+                    title: 'Tiếng Thái',
+                },
+                {
+                    type: 'language',
+                    code: 'tt',
+                    title: 'Tiếng Trung',
+                },
+                {
+                    type: 'language',
+                    code: 'td',
+                    title: 'Tiếng Đức',
+                },
+                {
+                    type: 'language',
+                    code: 'tp',
+                    title: 'Tiếng Pháp',
+                },
+                {
+                    type: 'language',
+                    code: 'ad',
+                    title: 'Tiếng Ấn độ',
+                },
+                {
+                    type: 'language',
+                    code: 'ar',
+                    title: 'Tiếng Ả Rập',
+                },
+                {
+                    type: 'language',
+                    code: 'ti',
+                    title: 'Tiếng Indonesia',
+                },
+                {
+                    type: 'language',
+                    code: 'tc',
+                    title: 'Tiếng Campuchia',
+                },
+                {
+                    type: 'language',
+                    code: 'tn',
+                    title: 'Tiếng Nhât',
+                },
+                {
+                    type: 'language',
+                    code: 'th',
+                    title: 'Tiếng Hàn',
+                },
+
             ],
         },
     },
